@@ -1,11 +1,11 @@
 ### Hey! I'm Pedro Heck :]
 
-## I'm a tech student and my main projects revolve around simulating nature behaviors with lines of code
+## I'm a tech student and my main projects revolve around simulating nature behaviors using lines of code
 
-- Co-founder of evolv-e
+- ⭐ Co-founder of evolv-e
 - 🤖 Machine Learning student
 - 🖌️ Painter
-- Genetic algorithms enthusiast
+- 🌍 Genetic algorithms enthusiast
 
 
 ### Languages and Tools
@@ -20,6 +20,7 @@
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-heck-145956a3/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 <!--
 **pedroheck/pedroheck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
