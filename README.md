@@ -1,5 +1,25 @@
-### Hi there 👋
+### Hey! I'm Pedro Heck :]
 
+## I'm a tech student and my main projects revolve around simulating nature behaviors with lines of code
+
+- Co-founder of evolv-e
+- 🤖 Machine Learning student
+- 🖌️ Painter
+- Genetic algorithms enthusiast
+
+
+### Languages and Tools
+
+![JavaScript](https://img.shields.io/badge/JavaScript-d4bd02?style=flat-square&logo=javascript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=java)
+![Python](https://img.shields.io/badge/python-%2314354C.svg?style=flat-square&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
+
+### You can find me on
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-heck-145956a3/)
 <!--
 **pedroheck/pedroheck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
