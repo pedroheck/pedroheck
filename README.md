@@ -2,7 +2,7 @@
 
 ## I'm a tech student and my main projects revolve around simulating nature behaviors using lines of code
 
-- ⭐ Co-founder of evolv-e
+- ⭐ Co-founder of evolv-e: https://github.com/evolv-e/evolv-e
 - 🤖 Machine Learning student
 - 🖌️ Painter
 - 🌍 Genetic algorithms enthusiast
