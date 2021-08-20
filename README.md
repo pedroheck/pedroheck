@@ -7,7 +7,7 @@
 </a>
 
 <a href="https://github.com/pedroheck">
-  <img align="center" height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroheck&layout=compact&theme=dracula">
+  <img align="center" height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroheck&hide=php,typescript&layout=compact&theme=dracula">
 </a>
 
 - ⭐ Co-founder of evolv-e: https://github.com/e-llo/evolv-e
