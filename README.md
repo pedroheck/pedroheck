@@ -1,18 +1,19 @@
 # Hey! I'm Pedro Heck :]
 
-### I'm a tech student and my main projects revolve around simulating nature behaviors using lines of code
+#### I'm a tech student and developer, with special interest in simulating natural phenomena and behaviors using lines of code
 
 <a href="https://github.com/pedroheck">
-  <img align="center" height="180rem" src="https://github-readme-stats.vercel.app/api?username=pedroheck&show_icons=true&bg_color=0,F9B343,EE6984&text_color=fff&title_color=fff&icon_color=e629ad&hide_border=true&border_radius=0,20">
+  <img align="center" height="180rem" src="https://github-readme-stats.vercel.app/api?username=pedroheck&show_icons=true&bg_color=0,F9B343,EE6984&text_color=fff&title_color=fff&icon_color=bb2be3&hide_border=true&border_radius=7">
 </a>
 
 <a href="https://github.com/pedroheck">
-  <img align="center" height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroheck&layout=compact&bg_color=0,EE6984,A770F0&text_color=fff&title_color=fff&icon_color=00c9d4&hide_border=true&border_radius=20,0">
+  <img align="center" height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroheck&layout=compact&bg_color=0,EE6984,A770F0&text_color=fff&title_color=fff&icon_color=00c9d4&hide_border=true&border_radius=7">
 </a>
 
-- ⭐ Co-founder of evolv-e: https://github.com/e-llo/evolv-e
+
+- ⭐ Co-founder of evolv·e: https://github.com/e-llo/evolv-e
 - 🤖 Machine Learning student
-- 🖌️ Painter
+- 🖌️ Painter & Designer
 - 🌍 Genetic algorithms enthusiast
 
 
