@@ -1,6 +1,14 @@
-### Hey! I'm Pedro Heck :]
+# Hey! I'm Pedro Heck :]
 
-## I'm a tech student and my main projects revolve around simulating nature behaviors using lines of code
+### I'm a tech student and my main projects revolve around simulating nature behaviors using lines of code
+
+<a href="https://github.com/pedroheck">
+  <img align="center" height="180rem" src="https://github-readme-stats.vercel.app/api?username=pedroheck&show_icons=true&theme=dracula">
+</a>
+
+<a href="https://github.com/pedroheck">
+  <img align="center" height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroheck&layout=compact&theme=dracula">
+</a>
 
 - ⭐ Co-founder of evolv-e: https://github.com/evolv-e/evolv-e
 - 🤖 Machine Learning student
@@ -8,7 +16,7 @@
 - 🌍 Genetic algorithms enthusiast
 
 
-### Languages and Tools
+## Languages and Tools
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-d4bd02?style=flat-square&logo=javascript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=java)
@@ -17,7 +25,7 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 
-### You can find me on
+## You can find me on
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-heck-145956a3/)
