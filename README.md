@@ -10,7 +10,7 @@
   <img align="center" height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroheck&layout=compact&theme=dracula">
 </a>
 
-- ⭐ Co-founder of evolv-e: https://github.com/evolv-e/evolv-e
+- ⭐ Co-founder of evolv-e: https://github.com/e-llo/evolv-e
 - 🤖 Machine Learning student
 - 🖌️ Painter
 - 🌍 Genetic algorithms enthusiast
