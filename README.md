@@ -3,11 +3,11 @@
 ### I'm a tech student and my main projects revolve around simulating nature behaviors using lines of code
 
 <a href="https://github.com/pedroheck">
-  <img align="center" height="180rem" src="https://github-readme-stats.vercel.app/api?username=pedroheck&show_icons=true&theme=cobalt">
+  <img align="center" height="180rem" src="https://github-readme-stats.vercel.app/api?username=pedroheck&show_icons=true&theme=cobalt&text_color=9debcb">
 </a>
 
 <a href="https://github.com/pedroheck">
-  <img align="center" height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroheck&layout=compact&theme=cobalt">
+  <img align="center" height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroheck&layout=compact&theme=cobalt&text_color=9debcb">
 </a>
 
 - ⭐ Co-founder of evolv-e: https://github.com/e-llo/evolv-e
