@@ -10,6 +10,7 @@
   <img align="center" height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroheck&layout=compact&bg_color=0,EE6984,A770F0&text_color=fff&title_color=fff&icon_color=00c9d4&hide_border=true&border_radius=7">
 </a>
 
+###
 
 - ⭐ Co-founder of evolv·e: https://github.com/e-llo/evolv-e
 - 🤖 Machine Learning student
