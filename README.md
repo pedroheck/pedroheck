@@ -12,7 +12,7 @@
 
 ###
 
-- ⭐ Co-founder of evolv·e: https://github.com/e-llo/evolv-e
+- ⭐ Co-founder and developer of evolv·e: https://github.com/e-llo/evolv-e
 - 🤖 Machine Learning student
 - 🖌️ Painter & Designer
 - 🌍 Genetic algorithms enthusiast
