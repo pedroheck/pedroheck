@@ -1,6 +1,6 @@
 # Hey! I'm Pedro Heck :]
 
-#### I'm a tech student and a data scientist with special interest in virtually simulating natural phenomena and behaviors
+#### I'm a data scientist with special interest in virtually simulating natural phenomena and behaviors
 
 <a href="https://github.com/pedroheck">
   <img align="center" height="180rem" src="https://github-readme-stats.vercel.app/api?username=pedroheck&show_icons=true&bg_color=0,F9B343,EE6984&text_color=fff&title_color=fff&icon_color=bb2be3&hide_border=true&border_radius=7">
