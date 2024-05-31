@@ -12,7 +12,7 @@
   </a>
   
   <a href="https://github.com/pedroheck">
-    <img align="center" height="152rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroheck&layout=donut&theme=radical&text_color=fff&title_color=fff&icon_color=00c9d4&hide_border=true&border_radius=7&langs_count=5&hide=jupyter%20notebook">
+    <img align="center" height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroheck&layout=donut&theme=radical&text_color=fff&title_color=fff&icon_color=00c9d4&hide_border=true&border_radius=7&langs_count=5&hide=jupyter%20notebook">
   </a>
 </div>
 
