@@ -1,0 +1,42 @@
+name: Update README
+
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: '0 0 * * *'  # Runs every day at midnight
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Generate README
+      run: |
+        echo "<div style=\"display: flex; align-items: center; justify-content: space-between; flex-wrap: nowrap; width: 100%;\">
+          <a href=\"https://github.com/pedroheck\">
+            <img align=\"center\" height=\"152rem\" src=\"https://github-readme-stats.vercel.app/api?username=pedroheck&layout=compact&show_icons=true&theme=radical&text_color=fff&title_color=fff&icon_color=bb2be3&hide_border=true&border_radius=7&token=$STATS_TOKEN\">
+          </a>
+          
+          <a href=\"https://github.com/pedroheck\">
+            <img align=\"center\" height=\"152rem\" src=\"https://github-readme-streak-stats.herokuapp.com/?user=pedroheck&show_icons=true&theme=radical&text_color=fff&title_color=fff&icon_color=bb2be3&hide_border=true&border_radius=7&token=$STATS_TOKEN\">
+          </a>
+          
+          <a href=\"https://github.com/pedroheck\">
+            <img align=\"center\" height=\"152rem\" src=\"https://github-readme-stats.vercel.app/api/top-langs/?username=pedroheck&layout=donut&theme=radical&text_color=fff&title_color=fff&icon_color=00c9d4&hide_border=true&border_radius=7&langs_count=5&hide=jupyter%20notebook&token=$STATS_TOKEN\">
+          </a>
+        </div>" > README.md
+
+    - name: Commit and push if changed
+      run: |
+        git config --global user.name 'github-actions[bot]'
+        git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+        git add README.md
+        git commit -m 'Update README with private contributions'
+        git push
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
