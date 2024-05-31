@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=5000&color=FFFFFF&random=false&width=750&height=44&lines=Hey!+I'm+Pedro+Heck+:])](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=F7F7F7&random=false&width=435&lines=Hey!+I'm+Pedro+Heck+%3A%5D)](https://git.io/typing-svg)
 ----
 #### I'm a data scientist with a special interest in virtually simulating natural phenomena and behaviors
 
